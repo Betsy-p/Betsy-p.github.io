@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-研究方向：区块链、密码学
+研究方向：区块链、密码学  
 当前学历：研究生
 
 ### More Information
